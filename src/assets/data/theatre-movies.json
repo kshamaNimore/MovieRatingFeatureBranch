@@ -1,0 +1,27 @@
+[
+    {
+        "id": 21,
+        "name": "Criminal",
+        "cover": "https://loremflickr.com/180/280/brazil,rio",
+        "rating": 4.3,
+        "reviews": [
+            {
+                "author":"Shrihari",
+                "published_on":"4/6/1709"
+
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lawfull World",
+        "cover": "https://loremflickr.com/180/280",
+        "rating": 3.9,
+        "reviews": [
+            {
+                "author":"VenktRamna",
+                "published_on":"9/3/1900"
+            }
+        ]
+    }
+]

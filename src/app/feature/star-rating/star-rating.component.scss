@@ -1,0 +1,21 @@
+.star {
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 3px;
+    height: 30px;     
+    color: #d3d3d3;
+    font-family: -apple-system, BlinkMacSystem, "Segoe UI",Roboto, Oxygen,Ubantu,Cantrarell,"Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.full {
+    color: red;
+}
+
+.half {
+    display: inline-block;
+    overflow: hidden;
+    position: absolute;
+    color: red;
+
+}

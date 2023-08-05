@@ -1,0 +1,26 @@
+[
+    {
+        "id":17,
+        "name": "th Hamdmaid",
+        "cover": "https://images.unsplash.com/1/type-away.jpg?q=500&fm=jpg&h=200&",
+        "rating": 3.4,
+        "reviews": [
+            {
+                "author":"AbhigyanShakuntalm",
+                "published_on":"5/8/1488"
+            }
+        ]
+    },
+    {
+        "id":18,
+        "name": "the Ahoms",
+        "cover": "https://loremflickr.com/180/280",
+        "rating": 4,
+        "reviews": [
+            {
+                "author":"Ravindra",
+                "published_on":"9/2/1590"
+            }
+        ]
+    }
+]

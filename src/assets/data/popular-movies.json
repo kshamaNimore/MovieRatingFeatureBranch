@@ -1,0 +1,23 @@
+[
+    {
+        "id": 21,
+        "name": "Criminal",
+        "cover": "https://images.unsplash.com/1/type-away.jpg?q=380&fm=jpg&w=180&fit=max",
+        "rating": 4.5,
+        "reviews": [
+           
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Lawfull World",
+        "cover": "https://loremflickr.com/180/280",
+        "rating": 4.1,
+        "reviews": [
+            {
+                "author":"Radhakrishndev",
+                "published_on":"3/1/1800"
+            }
+        ]
+    }
+]
